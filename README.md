@@ -36,8 +36,3 @@ The script was tested with Python 3 and requires the following packages:
 - hmmlearn
 - matplotlib
 - seaborn
-
-You can install the dependencies using:
-
-```bash
-pip install numpy pandas h5py scikit-learn scipy hmmlearn matplotlib seaborn
