@@ -1,4 +1,4 @@
-basenji_motif.py
+basenji_cre_state_hmm.py
 
 # Basenji motif state annotation using HMM
 
